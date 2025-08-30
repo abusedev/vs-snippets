@@ -1,0 +1,20 @@
+{
+  "name": "abuse",
+  "displayName": "abuse",
+  "description": "Abuse JS script syntax",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
